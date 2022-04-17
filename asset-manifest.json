@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "https://www.SNinjo.com/static/css/main.68a3338a.css",
+    "main.js": "https://www.SNinjo.com/static/js/main.d5e6a170.js",
+    "static/media/personalPhoto.png": "https://www.SNinjo.com/static/media/personalPhoto.1059bc152f92dc56b0b3.png",
+    "static/media/email.png": "https://www.SNinjo.com/static/media/email.3f0d083d0d12a069b509.png",
+    "static/media/instagram.png": "https://www.SNinjo.com/static/media/instagram.99af158e46d271b0329c.png",
+    "index.html": "https://www.SNinjo.com/index.html",
+    "main.68a3338a.css.map": "https://www.SNinjo.com/static/css/main.68a3338a.css.map",
+    "main.d5e6a170.js.map": "https://www.SNinjo.com/static/js/main.d5e6a170.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68a3338a.css",
+    "static/js/main.d5e6a170.js"
+  ]
+}
