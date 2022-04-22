@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://www.SNinjo.com/static/css/main.aa13c12a.css",
-    "main.js": "https://www.SNinjo.com/static/js/main.cb413f74.js",
+    "main.css": "https://www.SNinjo.com/static/css/main.076efa1f.css",
+    "main.js": "https://www.SNinjo.com/static/js/main.d66f85ef.js",
     "static/media/personalPhoto.jpg": "https://www.SNinjo.com/static/media/personalPhoto.d521e2afdbf1d095b354.jpg",
     "static/media/email.png": "https://www.SNinjo.com/static/media/email.3f0d083d0d12a069b509.png",
     "static/media/instagram.png": "https://www.SNinjo.com/static/media/instagram.99af158e46d271b0329c.png",
     "index.html": "https://www.SNinjo.com/index.html",
-    "main.aa13c12a.css.map": "https://www.SNinjo.com/static/css/main.aa13c12a.css.map",
-    "main.cb413f74.js.map": "https://www.SNinjo.com/static/js/main.cb413f74.js.map"
+    "main.076efa1f.css.map": "https://www.SNinjo.com/static/css/main.076efa1f.css.map",
+    "main.d66f85ef.js.map": "https://www.SNinjo.com/static/js/main.d66f85ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa13c12a.css",
-    "static/js/main.cb413f74.js"
+    "static/css/main.076efa1f.css",
+    "static/js/main.d66f85ef.js"
   ]
 }
