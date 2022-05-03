@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://www.SNinjo.com/static/css/main.8ee0cd57.css",
-    "main.js": "https://www.SNinjo.com/static/js/main.a994d7ef.js",
+    "main.js": "https://www.SNinjo.com/static/js/main.5c71316d.js",
     "static/media/iActivityCollection.png": "https://www.SNinjo.com/static/media/iActivityCollection.a7cef79a3a067b0205c9.png",
     "static/media/personalPhoto.jpg": "https://www.SNinjo.com/static/media/personalPhoto.d521e2afdbf1d095b354.jpg",
     "static/media/imageProcessor.png": "https://www.SNinjo.com/static/media/imageProcessor.501b1bf6a712352df36d.png",
@@ -38,10 +38,10 @@
     "static/media/git.png": "https://www.SNinjo.com/static/media/git.8b7a0d437a2ad366be6d.png",
     "index.html": "https://www.SNinjo.com/index.html",
     "main.8ee0cd57.css.map": "https://www.SNinjo.com/static/css/main.8ee0cd57.css.map",
-    "main.a994d7ef.js.map": "https://www.SNinjo.com/static/js/main.a994d7ef.js.map"
+    "main.5c71316d.js.map": "https://www.SNinjo.com/static/js/main.5c71316d.js.map"
   },
   "entrypoints": [
     "static/css/main.8ee0cd57.css",
-    "static/js/main.a994d7ef.js"
+    "static/js/main.5c71316d.js"
   ]
 }
