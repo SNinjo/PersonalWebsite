@@ -1,13 +1,18 @@
 {
   "files": {
     "main.css": "https://www.SNinjo.com/static/css/main.8ee0cd57.css",
-    "main.js": "https://www.SNinjo.com/static/js/main.c4525185.js",
+    "main.js": "https://www.SNinjo.com/static/js/main.93e94f73.js",
+    "static/media/imageProcessor.gif": "https://www.SNinjo.com/static/media/imageProcessor.2b15f5506a6d99cbe958.gif",
+    "static/media/databaseEditor.gif": "https://www.SNinjo.com/static/media/databaseEditor.f27aec14e48508812626.gif",
     "static/media/iActivityCollection.png": "https://www.SNinjo.com/static/media/iActivityCollection.a7cef79a3a067b0205c9.png",
+    "static/media/yummyMap.gif": "https://www.SNinjo.com/static/media/yummyMap.6aaaf66c343547334a44.gif",
     "static/media/personalPhoto.jpg": "https://www.SNinjo.com/static/media/personalPhoto.d521e2afdbf1d095b354.jpg",
     "static/media/imageProcessor.png": "https://www.SNinjo.com/static/media/imageProcessor.501b1bf6a712352df36d.png",
+    "static/media/chatroom.gif": "https://www.SNinjo.com/static/media/chatroom.6b7267aa6bb6b6aff5d3.gif",
     "static/media/sninjo.gif": "https://www.SNinjo.com/static/media/sninjo.a7217dac6d278a3a6cf3.gif",
-    "static/media/chatroom.png": "https://www.SNinjo.com/static/media/chatroom.79d5e8062fa3c5920f7a.png",
+    "static/media/chatroom.png": "https://www.SNinjo.com/static/media/chatroom.8a020687df06818fa961.png",
     "static/media/circumcode.png": "https://www.SNinjo.com/static/media/circumcode.46d853987d66057de796.png",
+    "static/media/snake.gif": "https://www.SNinjo.com/static/media/snake.39dad4f1ccdf8511ac06.gif",
     "static/media/raspbian.png": "https://www.SNinjo.com/static/media/raspbian.ff737598fad3774a3cb6.png",
     "static/media/yummyMap.png": "https://www.SNinjo.com/static/media/yummyMap.46f75d38dfde92c30ad5.png",
     "static/media/email.png": "https://www.SNinjo.com/static/media/email.3f0d083d0d12a069b509.png",
@@ -33,15 +38,15 @@
     "static/media/mysql.png": "https://www.SNinjo.com/static/media/mysql.9e1b2edd1fbcaf983f33.png",
     "static/media/instagram.png": "https://www.SNinjo.com/static/media/instagram.99af158e46d271b0329c.png",
     "static/media/logo.png": "https://www.SNinjo.com/static/media/logo.4122682c8d1e18755216.png",
-    "static/media/snake.png": "https://www.SNinjo.com/static/media/snake.c0ee279e6305d1a05062.png",
+    "static/media/snake.png": "https://www.SNinjo.com/static/media/snake.13bf55ecbb9236a2b70e.png",
     "static/media/vue.png": "https://www.SNinjo.com/static/media/vue.ccafe68a6d63a43fa5a1.png",
     "static/media/git.png": "https://www.SNinjo.com/static/media/git.8b7a0d437a2ad366be6d.png",
     "index.html": "https://www.SNinjo.com/index.html",
     "main.8ee0cd57.css.map": "https://www.SNinjo.com/static/css/main.8ee0cd57.css.map",
-    "main.c4525185.js.map": "https://www.SNinjo.com/static/js/main.c4525185.js.map"
+    "main.93e94f73.js.map": "https://www.SNinjo.com/static/js/main.93e94f73.js.map"
   },
   "entrypoints": [
     "static/css/main.8ee0cd57.css",
-    "static/js/main.c4525185.js"
+    "static/js/main.93e94f73.js"
   ]
 }
