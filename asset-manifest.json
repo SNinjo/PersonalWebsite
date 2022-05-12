@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://www.SNinjo.com/static/css/main.e5824c2c.css",
-    "main.js": "https://www.SNinjo.com/static/js/main.50684674.js",
+    "main.css": "https://www.SNinjo.com/static/css/main.200bcdd4.css",
+    "main.js": "https://www.SNinjo.com/static/js/main.da022939.js",
     "static/media/imageProcessor.gif": "https://www.SNinjo.com/static/media/imageProcessor.2b15f5506a6d99cbe958.gif",
     "static/media/databaseEditor.gif": "https://www.SNinjo.com/static/media/databaseEditor.f27aec14e48508812626.gif",
     "static/media/iActivityCollection.png": "https://www.SNinjo.com/static/media/iActivityCollection.a7cef79a3a067b0205c9.png",
@@ -11,6 +11,7 @@
     "static/media/chatroom.gif": "https://www.SNinjo.com/static/media/chatroom.6b7267aa6bb6b6aff5d3.gif",
     "static/media/sninjo.gif": "https://www.SNinjo.com/static/media/sninjo.a7217dac6d278a3a6cf3.gif",
     "static/media/chatroom.png": "https://www.SNinjo.com/static/media/chatroom.8a020687df06818fa961.png",
+    "static/media/blog.png": "https://www.SNinjo.com/static/media/blog.aba5cb61cda061028275.png",
     "static/media/circumcode.png": "https://www.SNinjo.com/static/media/circumcode.46d853987d66057de796.png",
     "static/media/snake.gif": "https://www.SNinjo.com/static/media/snake.39dad4f1ccdf8511ac06.gif",
     "static/media/raspbian.png": "https://www.SNinjo.com/static/media/raspbian.ff737598fad3774a3cb6.png",
@@ -42,11 +43,11 @@
     "static/media/vue.png": "https://www.SNinjo.com/static/media/vue.ccafe68a6d63a43fa5a1.png",
     "static/media/git.png": "https://www.SNinjo.com/static/media/git.8b7a0d437a2ad366be6d.png",
     "index.html": "https://www.SNinjo.com/index.html",
-    "main.e5824c2c.css.map": "https://www.SNinjo.com/static/css/main.e5824c2c.css.map",
-    "main.50684674.js.map": "https://www.SNinjo.com/static/js/main.50684674.js.map"
+    "main.200bcdd4.css.map": "https://www.SNinjo.com/static/css/main.200bcdd4.css.map",
+    "main.da022939.js.map": "https://www.SNinjo.com/static/js/main.da022939.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5824c2c.css",
-    "static/js/main.50684674.js"
+    "static/css/main.200bcdd4.css",
+    "static/js/main.da022939.js"
   ]
 }
