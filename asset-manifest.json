@@ -1,7 +1,10 @@
 {
   "files": {
-    "main.css": "https://www.SNinjo.com/static/css/main.28189e5a.css",
-    "main.js": "https://www.SNinjo.com/static/js/main.e5a3d367.js",
+    "main.css": "https://www.SNinjo.com/static/css/main.27ef2a50.css",
+    "main.js": "https://www.SNinjo.com/static/js/main.5e67563d.js",
+    "static/media/OMG.gif": "https://www.SNinjo.com/static/media/OMG.88ffb3a571b2cbca7242.gif",
+    "static/media/RCCar.jpg": "https://www.SNinjo.com/static/media/RCCar.9c8bc451f2ea62a1ff24.jpg",
+    "static/media/sninjo.gif": "https://www.SNinjo.com/static/media/sninjo.5ef6dedd56336c7de5a5.gif",
     "static/media/imageProcessor.gif": "https://www.SNinjo.com/static/media/imageProcessor.2b15f5506a6d99cbe958.gif",
     "static/media/databaseEditor.gif": "https://www.SNinjo.com/static/media/databaseEditor.f27aec14e48508812626.gif",
     "static/media/iActivityCollection.png": "https://www.SNinjo.com/static/media/iActivityCollection.a7cef79a3a067b0205c9.png",
@@ -9,11 +12,13 @@
     "static/media/personalPhoto.jpg": "https://www.SNinjo.com/static/media/personalPhoto.d521e2afdbf1d095b354.jpg",
     "static/media/imageProcessor.png": "https://www.SNinjo.com/static/media/imageProcessor.501b1bf6a712352df36d.png",
     "static/media/chatroom.gif": "https://www.SNinjo.com/static/media/chatroom.6b7267aa6bb6b6aff5d3.gif",
-    "static/media/sninjo.gif": "https://www.SNinjo.com/static/media/sninjo.a7217dac6d278a3a6cf3.gif",
     "static/media/chatroom.png": "https://www.SNinjo.com/static/media/chatroom.8a020687df06818fa961.png",
     "static/media/blog.png": "https://www.SNinjo.com/static/media/blog.aba5cb61cda061028275.png",
+    "static/media/crawler.jpg": "https://www.SNinjo.com/static/media/crawler.6077b49b1104af83ef79.jpg",
     "static/media/circumcode.png": "https://www.SNinjo.com/static/media/circumcode.46d853987d66057de796.png",
+    "static/media/OMG.jpg": "https://www.SNinjo.com/static/media/OMG.e1f1f67644e22875bcdf.jpg",
     "static/media/snake.gif": "https://www.SNinjo.com/static/media/snake.39dad4f1ccdf8511ac06.gif",
+    "static/media/crawler.gif": "https://www.SNinjo.com/static/media/crawler.1d326fe51ae029f71ef6.gif",
     "static/media/raspbian.png": "https://www.SNinjo.com/static/media/raspbian.ff737598fad3774a3cb6.png",
     "static/media/yummyMap.png": "https://www.SNinjo.com/static/media/yummyMap.46f75d38dfde92c30ad5.png",
     "static/media/email.png": "https://www.SNinjo.com/static/media/email.3f0d083d0d12a069b509.png",
@@ -43,11 +48,11 @@
     "static/media/vue.png": "https://www.SNinjo.com/static/media/vue.ccafe68a6d63a43fa5a1.png",
     "static/media/git.png": "https://www.SNinjo.com/static/media/git.8b7a0d437a2ad366be6d.png",
     "index.html": "https://www.SNinjo.com/index.html",
-    "main.28189e5a.css.map": "https://www.SNinjo.com/static/css/main.28189e5a.css.map",
-    "main.e5a3d367.js.map": "https://www.SNinjo.com/static/js/main.e5a3d367.js.map"
+    "main.27ef2a50.css.map": "https://www.SNinjo.com/static/css/main.27ef2a50.css.map",
+    "main.5e67563d.js.map": "https://www.SNinjo.com/static/js/main.5e67563d.js.map"
   },
   "entrypoints": [
-    "static/css/main.28189e5a.css",
-    "static/js/main.e5a3d367.js"
+    "static/css/main.27ef2a50.css",
+    "static/js/main.5e67563d.js"
   ]
 }
