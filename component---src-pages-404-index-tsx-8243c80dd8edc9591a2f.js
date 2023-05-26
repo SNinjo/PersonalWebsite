@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkSNinjo_Personal_Website=self.webpackChunkSNinjo_Personal_Website||[]).push([[911],{7950:function(e,n,t){t.r(n),t.d(n,{default:function(){return a}});var r=t(7294),l=t(4491);var a=()=>r.createElement(l.Z,null,r.createElement("section",{className:"index-module--section--8fb69"},r.createElement("p",null,"Sorry... There are nothing here.")))}}]);
+//# sourceMappingURL=component---src-pages-404-index-tsx-8243c80dd8edc9591a2f.js.map
